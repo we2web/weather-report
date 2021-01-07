@@ -34,4 +34,4 @@ const server = http.createServer((req, res)=>{
         res.end("File not found");
       }
     });
-server.listen("");
+server.listen("https://we2web.github.io/whether-report/");
